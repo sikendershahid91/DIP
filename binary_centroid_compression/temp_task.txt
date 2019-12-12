@@ -1,0 +1,14 @@
+task
+-------------------------------------
+[x] - compute histogram ?
+[x] - optimal threshold
+[x] - binarize image ?
+[x] - describe binary image findings
+[x] - cell counting padding question? 
+[x] - describe counting findings
+[x] - compute statistics
+[ ] - mark regions image
+[x] - compression encode image
+[x] - compression decode image
+[x] - describe compression findings
+[ ] - finalize report 

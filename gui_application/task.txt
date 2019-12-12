@@ -1,0 +1,40 @@
+x-completed
+!-postponed
+f-failed
+/-no longer needed
+
+members:
+	Fabian
+	Jaivardhan
+	Navya
+	Sikender
+	Tyler
+	Wahab
+
+status - assigned date - task - assignee 
+--------------------------------------------------
+[x] - mon-3/31 - intensity slicing - sikender & israel 
+<<<<<<< HEAD
+[ ] - mon-3/31 - color transformation - navya
+[ ] - mon-3/31 - smoothing filter - wahab
+[ ] - mon-3/31 - sharpening filter - jaivardhan
+[x] - mon-3/31 - i/o - tyler 
+[ ] - mon-3/31 - front and backend connectivity - tyler
+=======
+[x] - mon-3/31 - color transformation - navya
+[x] - mon-3/31 - smoothing filter - wahab
+[x] - mon-3/31 - sharpening filter - jaivardhan
+[x] - mon-3/31 - i/o , and starter file - tyler
+>>>>>>> d6377a0b2aac20c8ba74e0ba312be8e638ee0fe8
+[x] - mon-3/31 - Due: tue-4/2 Project Proposal
+[x] - sat-4/06 - cip_ui - fabian mendez
+[/] - sat-4/06 - intensity slicing - handle float32
+[x] - sat-4/06 - intensity slicing - handle saturation
+[x] - sat-4/06 - intensity slicing - hangle varying resolution
+[x] - sat-4/20 - backend - get location
+[x] - sat-4/20 - cip_ui - display images
+[ ] - sun-4/21 - final project presentation
+[x] - sun-4/21 - proposal presentation
+[ ] - sun-4/21 - complete report
+[ ] - sun-4/21 - README instruction
+

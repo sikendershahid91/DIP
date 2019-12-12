@@ -1,0 +1,14 @@
+binary image
+       - the histogram list
+       - expectant calculation
+       - thresholding significance 
+       - binary value to be set.
+
+
+cell counting
+       - 
+       
+
+compression findings
+       -
+       

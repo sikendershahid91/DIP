@@ -1,0 +1,15 @@
+task
+-------------------------------------
+[x] - DFT - Forward fourier transform
+[x] - DFT - Inverse fourier transform
+[x] - DFT - discrete cosine transform --- ? 
+[x] - DFT - magnititude of fourier tranform
+[ ] - report - DFT - describe finding
+[x] - Frequency Filtering - ideal low pass
+[x] - Frequency Filtering - ideal high pass
+[x] - Frequency Filtering - butterworth low pass - special input
+[x] - Frequency Filtering - butterworth high pass - special input 
+[x] - Frequency Filtering - Gaussian low pass
+[x] - Frequency Filtering - Gaussian high pass
+[x] - Frequency Filtering - contrast stretch & neg of image
+[ ] - report - Frequency - describe finding
